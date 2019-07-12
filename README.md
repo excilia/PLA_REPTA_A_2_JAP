@@ -1,2 +1,2 @@
 # PLA_REPTA_A_2_JAP
-![](images/IMAGEN_Tv.jpg)
+![](imagenes/IMAGEN_Tv.jpg)
